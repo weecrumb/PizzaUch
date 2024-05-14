@@ -9,9 +9,10 @@
       Title="Registration1">
 
     <Grid Background="White">
-        <Grid Background="LightCoral" HorizontalAlignment="Center" Width="800" Height="71" VerticalAlignment="Top">
-            <Label Content="Регистрация" HorizontalAlignment="Right" Margin="0,0,618,0" VerticalAlignment="Center" FontFamily="Courier New" Foreground="White" FontSize="22"/>
-            <Button Content="Выйти" HorizontalAlignment="Left" Margin="676,0,0,0" VerticalAlignment="Center" Width="101" Height="25" Background="White" Foreground="LightCoral" BorderBrush="{x:Null}"/>
+        <Grid Background="LightCoral" HorizontalAlignment="Center" Width="800" Height="45" VerticalAlignment="Top">
+            <Image x:Name="iconApp" Source="icon(white).png" HorizontalAlignment="Left" Height="30" Margin="10,0,0,0" VerticalAlignment="Center" Width="30"/>
+            <Label Content="Регистрация 1/3" HorizontalAlignment="Left" Margin="55,0,0,0" VerticalAlignment="Center" FontFamily="Courier New" Foreground="White" FontSize="22"/>
+            <Button Content="Завершить" HorizontalAlignment="Left" Margin="676,0,0,0" VerticalAlignment="Center" Width="101" Height="25" Background="White" Foreground="LightCoral" BorderBrush="{x:Null}"/>
         </Grid>
         <Label Content="Имя:" HorizontalAlignment="Left" Margin="280,196,0,0" VerticalAlignment="Top" FontFamily="Courier New" Foreground="Black" FontSize="16"/>
         <TextBox HorizontalAlignment="Center" Margin="0,229,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="240" Height="26" BorderBrush="LightCoral" Foreground="Black" Background="{x:Null}"/>
