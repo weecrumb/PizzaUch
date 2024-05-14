@@ -18,7 +18,7 @@
         <TextBox HorizontalAlignment="Left" Margin="125,156,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="240" Height="26" BorderBrush="LightCoral" Foreground="Black" Background="{x:Null}"/>
         <Label Content="Имя:" HorizontalAlignment="Left" Margin="125,61,0,0" VerticalAlignment="Top" FontFamily="Courier New" Foreground="Black" FontSize="16"/>
         <TextBox HorizontalAlignment="Left" Margin="125,92,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="240" Height="26" BorderBrush="LightCoral" Foreground="Black"/>
-        <Button Content="Далее" HorizontalAlignment="Left" Margin="660,404,0,0" VerticalAlignment="Top" Width="101" Height="25" Background="LightCoral" Foreground="White" BorderBrush="{x:Null}"/>
+        <Button Content="Заказать" HorizontalAlignment="Left" Margin="660,404,0,0" VerticalAlignment="Top" Width="101" Height="25" Background="LightCoral" Foreground="White" BorderBrush="{x:Null}"/>
         <Label Content="Отчество:" HorizontalAlignment="Left" Margin="125,185,0,0" VerticalAlignment="Top" FontFamily="Courier New" Foreground="Black" FontSize="16"/>
         <TextBox HorizontalAlignment="Left" Margin="125,218,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="240" Height="26" BorderBrush="LightCoral" Foreground="Black" Background="{x:Null}"/>
         <Label Content="Телефон:" HorizontalAlignment="Left" Margin="125,245,0,0" VerticalAlignment="Top" FontFamily="Courier New" Foreground="Black" FontSize="16"/>
